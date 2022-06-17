@@ -1,0 +1,10 @@
+[
+  {
+    "package": "scTenifoldKnk",
+    "oncran": true
+  },
+  {
+    "package": "scTenifoldNet",
+    "oncran": true
+  }
+]
