@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/cailab-tamu/sctenifoldknk
-	shallow = true
-	registered = true
 [submodule "scTenifoldNet"]
 	path = scTenifoldNet
 	url = https://github.com/cailab-tamu/sctenifoldnet
-	shallow = true
-	registered = true
